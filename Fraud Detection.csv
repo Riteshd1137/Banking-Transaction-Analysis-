@@ -1,0 +1,2 @@
+transaction_id,customer_name,account_id,debit_amount,transaction_date
+5,"Meena Joshi",1003,20000.00,"2024-06-01 13:45:00"

@@ -1,0 +1,6 @@
+customer_id,customer_name,total_credit,total_debit,net_value
+4,"Karan Mehta",25000.00,5000.00,20000.00
+1,"Ayesha Khan",10000.00,5000.00,5000.00
+2,"Ravi Sharma",15000.00,10000.00,5000.00
+5,"Sneha Patil",2000.00,10000.00,-8000.00
+3,"Meena Joshi",5000.00,20000.00,-15000.00
